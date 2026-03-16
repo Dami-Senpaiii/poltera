@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 120" role="img" aria-labelledby="title desc">
+  <title id="title">Poltera GmbH Logo Platzhalter</title>
+  <desc id="desc">Textbasierter Logo-Platzhalter in Rot und Grau für das Mockup.</desc>
+  <rect width="440" height="120" fill="#ffffff"/>
+  <rect x="8" y="8" width="424" height="104" rx="10" fill="#f5f5f5" stroke="#474849" stroke-width="2"/>
+  <circle cx="62" cy="60" r="26" fill="#AB1B25"/>
+  <text x="108" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111111">POLTERA</text>
+  <text x="108" y="82" font-family="Arial, sans-serif" font-size="20" fill="#474849">GMBH</text>
+</svg>
